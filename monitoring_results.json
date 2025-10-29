@@ -1,0 +1,16 @@
+[
+  {
+    "site": "Example Forum",
+    "url": "http://example1.onion",
+    "timestamp": "2025-10-29T11:34:04.268567",
+    "found_keywords": [],
+    "status": "connection_error"
+  },
+  {
+    "site": "Example Marketplace",
+    "url": "http://example2.onion",
+    "timestamp": "2025-10-29T11:34:09.277330",
+    "found_keywords": [],
+    "status": "connection_error"
+  }
+]
